@@ -3,5 +3,11 @@
 - Diffusion of gases
   * program displays the entropy and heat change of random gases that displacing randomly over conservative system.
 
-<object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> 
-</object>
+## outputs
+  - [sample img](https://github.com/ibo52/DiffusionOfGases/blob/main/sample%20outputs/diffusion_sim1.png)
+  
+  - [sample img2](https://github.com/ibo52/DiffusionOfGases/blob/main/sample%20outputs/diffusion_sim3(entropy).png)
+
+  - [sample video](https://github.com/ibo52/DiffusionOfGases/blob/main/sample%20outputs/video.webm)
+  
+  - [report](https://github.com/ibo52/DiffusionOfGases/blob/main/ProjectReport.pdf)
